@@ -5,7 +5,8 @@
 
 
 appsettings.json
-
+places.db-shm
+places.db-wal
 
 # User-specific files
 *.rsuser
